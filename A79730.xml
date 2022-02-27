@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eight propositions of the desires of the Commissioners of the General Assembly of Scotland, to the Parliament. 1 That the grounds and cause of undertaking a war may be cleare. ... 7 That none have power, but such as have given proofe of their honest dealing. 3 [sic] And that there be no ingagement without a civill oath. And the answer of the Lords to the said propositions. Also a petition entred in the Parliament of Scotland by eighteen Lords, and neer forty of the commons, of shires and burroughs of the Parliament of Scotland. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79730</idno>
+            <idno type="STC">Wing C4224A</idno>
+            <idno type="STC">Thomason E434_27</idno>
+            <idno type="STC">ESTC R205277</idno>
+            <idno type="EEBO-CITATION">99864693</idno>
+            <idno type="PROQUEST">99864693</idno>
+            <idno type="VID">161570</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79730)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161570)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E434[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eight propositions of the desires of the Commissioners of the General Assembly of Scotland, to the Parliament. 1 That the grounds and cause of undertaking a war may be cleare. ... 7 That none have power, but such as have given proofe of their honest dealing. 3 [sic] And that there be no ingagement without a civill oath. And the answer of the Lords to the said propositions. Also a petition entred in the Parliament of Scotland by eighteen Lords, and neer forty of the commons, of shires and burroughs of the Parliament of Scotland. Published according to order.</title>
+                  <author>Scotland. Parliament.</author>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 4 misnumbered as 6.</note>
+                  <note>Annotation on Thomason copy: "Aprill 5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Parliament --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161570:1" rendition="simple:additions"/>
+            <p>EIGHT PROPOSITIONS OF The deſires of the Commiſſioners of the General Aſſem<g ref="char:EOLhyphen"/>bly of <hi>Scotland,</hi> to the Parliament.
+<list>
+                  <item>1 <hi>That the grounds and cauſe of undertaking a war may be cleared.</hi>
+                  </item>
+                  <item>2 <hi>To conſider what are the breaches of peace, which are taken to be the ground of the war.</hi>
+                  </item>
+                  <item>3 <hi>That no ground or quarrell of war be, that may break the union of the Kingdomes.</hi>
+                  </item>
+                  <item>4. <hi>If the Popiſh, Prelaticall, or Malignant party riſe in armes, that all meanes be uſed for ſuppreſſing them.</hi>
+                  </item>
+                  <item>5 <hi>That the Parliament will declare His Majeſties Conceſſions and offers of Religion unſatisfactory.</hi>
+                  </item>
+                  <item>6 <hi>Security to be bad from His Majeſty, that he and his Succeſſors ſhall agree to Acts of Parliament injoyning the League and Covenant, the Presbytery, and Directory.</hi>
+                  </item>
+                  <item>7 <hi>That none have power, but ſuch as have given proofe of their honeſt dealing.</hi>
+                  </item>
+                  <item>8 <hi>And that there be no ingagement without a civill Oath.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>AND The anſwer of the Lords to the ſaid <hi>Propoſitions</hi>
+            </p>
+            <p>ALSO A Petition entred in the Parliament of <hi>Scotland</hi> by eighteen Lords, and neer forty of the Com<g ref="char:EOLhyphen"/>mons, of Shires and Burroughs of the <hi>Parliament of Scotland.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> by ROBERT IBBITSON. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="protestation">
+            <pb facs="tcp:161570:2"/>
+            <pb n="1" facs="tcp:161570:2"/>
+            <head>1648. A PROTESTATION Entred IN THE PARLIAMENT OF SCOTLAND, By eighteen Lords, and neer forty of the Commons of Shires, and Bur<g ref="char:EOLhyphen"/>roughs, of the Parliament of SCOTLAND.</head>
+            <p>WHereas we have earneſtly deſired and preſt that no power be granted to any Commit<g ref="char:EOLhyphen"/>tee, to doe, act, or Order any thing which may ingage this Kingdome in a new Warre, be<g ref="char:EOLhyphen"/>fore
+<pb n="2" facs="tcp:161570:3"/> the Parliament reſolve on a Warre, and ſtates the Cauſes and Ends thereof, it being in our judgement nei<g ref="char:EOLhyphen"/>ther agreeable to the Oath of Parliament, and Tenor of Commons from Shires and Burroughes, nor the Act of Par<g ref="char:EOLhyphen"/>liameut 1640. And againſt the Articles, it being alſo a dangerous preparative, and much derogatory to the Liber<g ref="char:EOLhyphen"/>ty of the Kingdome, and Priviledges of Parliament; And moſt of all it being of dangerous conſequence to the cauſe of God, and to the ends of the ſolemne League and Cove<g ref="char:EOLhyphen"/>nant. Wee doe therefore diſſent from granting any ſuch power, and doe proteſt that we may not be included in any ſuch Vote or Reſolution, but may be free before God and Man of all the guiltineſſe, prejudices or evill that may fol<g ref="char:EOLhyphen"/>low thereupon,, to the Cauſe, Covenant and Religion, to the Kings perſon and authority, to this Kirke and King<g ref="char:EOLhyphen"/>dome, or the union betweene the two Kingdomes.</p>
+            <div type="propositions">
+               <opener>
+                  <dateline>Edenburgh <date>22 March, 1647.</date>
+                  </dateline>
+               </opener>
+               <p>TO the Right Honourable the Eſtates of Parliament preſent conveened: The humble deſires of the Com<g ref="char:EOLhyphen"/>miſsioners of the Generall Aſſembly, Whereas we were deſired to appoint a conference of ſome of your Lordſhips, which did goe on towards an agreement, till it was ob<g ref="char:EOLhyphen"/>ſtructed by a Vote of Parliament of the 16. of this inſtant, and having already ſhewne by our papers of the 18. and 20. the reaſons of not proceeding in that conference, and that the cauſe was not in us; we doe now as the ſervants of Jeſus Chriſt, for your exhortation, for preventing of mi<g ref="char:EOLhyphen"/>ſtakes, and for a cleare underſtanding betwixt yours and us repreſent theſe our humble deſires, which we com<g ref="char:EOLhyphen"/>mend to your Lordſhips ſerious thoughts.</p>
+               <div n="1" type="proposition">
+                  <head>I.</head>
+                  <p>That the ground and cauſe of undertaking was may be cleare to be ſo juſt, as that all who are well affected may
+<pb n="3" facs="tcp:161570:3"/> be ſatisfied in the lawfulneſſe and neceſsity of engagement, and that nothing be enacted in reference to a warre before the lawfulneſſe of the warre, and the ſtate of the queſtion be agreed upon.</p>
+               </div>
+               <div n="2" type="proposition">
+                  <head>II.</head>
+                  <p>That as the breaches of the Covenant by the Parliament partly by Sectaries in <hi>England</hi> are evident, ſo we deſire and hope, that according to the treaties it may be conſidered upon and declared by the Parliament what are thoſe brea<g ref="char:EOLhyphen"/>ches of peace which they take to be a ground of the warre, and that whereabout thereof may be ſought.</p>
+               </div>
+               <div n="2" type="proposition">
+                  <head>III.</head>
+                  <p>That there may be no ſuch quarrell or ground of the warre as may breake the union between the Kingdoms, or may diſcourage or diſable the presbyterian party in <hi>England,</hi> who continue from in adhering to the League and Cove<g ref="char:EOLhyphen"/>nant.</p>
+               </div>
+               <div n="4" type="proposition">
+                  <head>IV.</head>
+                  <p>That if the popiſh prevaile, or malignant party ſhall a<g ref="char:EOLhyphen"/>gaine riſe in Armes, this warre and their Armies may be ſo farre from joyning, or aſſociating with them, that on the contrary they may oppoſe them, and endeavour to ſuppreſs them, as enemies to the Cauſe and Covenant, upon the one hand, as well as Sectaries on the other.</p>
+               </div>
+               <div n="5" type="proposition">
+                  <head>V.</head>
+                  <p>Seeing your Lordſhips undertakings ſhould be in the firſt part for Religion, we deſire that His Majeſties late conſeſ<g ref="char:EOLhyphen"/>ſions and offers concerning Religion as they have been by the Church, ſo may be by the Parliament declared unſatiſ<g ref="char:EOLhyphen"/>fectory, whereby your Lordſhips may give a further evi<g ref="char:EOLhyphen"/>dence of the reality of your intentions for the good and ſafety of Religion.</p>
+               </div>
+               <div n="6" type="proposition">
+                  <head>VI.</head>
+                  <p>That your Lordſhips may be pleaſed not to fix or ſettle upon any ſuch ſtate of a queſtion, as doth not containe ſe<g ref="char:EOLhyphen"/>curity and aſſurance to be had from His Majeſtie by his ſo<g ref="char:EOLhyphen"/>lemne oath under his hand and ſeale, That he ſhall for him<g ref="char:EOLhyphen"/>ſelfe
+<pb n="6" facs="tcp:161570:4"/> and his ſucceſſors conſent and agree to acts of Parlia<g ref="char:EOLhyphen"/>ment, injoyning the League and Covenant, and fully eſta<g ref="char:EOLhyphen"/>bliſhing Presbyterian Government, Directory of worſhip, and confeſsion of faith, in all His Majeſties Dominions, and that His Majeſty ſhall never make any oppoſition to any of theſe, or endeavour any change thereof, and that this ſecurity be had from His Majeſty before his reſtitution to the exerciſe of His Regall power, which deſire we pro<g ref="char:EOLhyphen"/>pound for no other end, but becauſe we cannot ſee how Re<g ref="char:EOLhyphen"/>ligion which hath been, and we truſt ſhall be the principle end of the undertakings of this nation can be otherwiſe ſecured, but that without this ſecurity it ſhall be left in very great hazard.</p>
+               </div>
+               <div n="7" type="proposition">
+                  <head>VII.</head>
+                  <p>That for the ſame end of ſecuring Religion (which is profeſſed to be the principall end of engagement) and for all the other ends of this Covenant, ſuch perſons onely may be intruſted by your Lordſhips to bee of your Committees or Army as hath given conſtant proofe of their integrity and faithfullneſſe in this Cauſe, and againſt whom there is no juſt cauſe of exception or jealouſie, that ſo we may the more confidently incourage our Flocks and Congre<g ref="char:EOLhyphen"/>gations to follow the Cauſe of God, in their hands, and not to doubt of the fidelity of thoſe who ſhall be intruſted by your Lordſhips.</p>
+               </div>
+               <div n="8" type="proposition">
+                  <head>VIII.</head>
+                  <p>That there bee no ingagement without a Solemne Oath wherein the Kirke may have the ſame intereſt which they have had in the Solemne League and Covenant, the Cauſe being the ſame.</p>
+                  <p>All which deſires being duly pondered by your Lord<g ref="char:EOLhyphen"/>ſhips in an equal ballance, will we truſt be found juſt and ne<g ref="char:EOLhyphen"/>ceſſary: And wee doe not doubt but ſatisfaction from your Lordſhips therein may be the happy effectuall means for facilitating the ſtate of the queſtion, and for uniting the Nations in one unanimous undertaking of ſuch du<g ref="char:EOLhyphen"/>ties as are requiſite for the Reformation and defence of
+<pb n="5" facs="tcp:161570:4"/> Religion, the Honour and Happineſſe of the Kiig, and the good, peace and ſafety of the Kingdomes.</p>
+                  <p>
+                     <hi>Eight Noble-men, eight Barrons, eight Bur<g ref="char:EOLhyphen"/>geſeſſes from the Parliament, with ſeaven Mi<g ref="char:EOLhyphen"/>niſters, and eight Ruling-Elders were appointed to keep a Committee and conſider of the Articles afore<g ref="char:EOLhyphen"/>ſaid.</hi>
+                  </p>
+                  <p>
+                     <hi>After which, that Committee called a Committee from the Parliament and gave this report, viz.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div type="answer">
+            <opener>
+               <date>March 25. 1648.</date>
+            </opener>
+            <p>
+               <hi>Anent the firſt of the Articles agrees to it, but ſo, that nothing be acted in the meane time, in re<g ref="char:EOLhyphen"/>ference to warre.</hi>
+            </p>
+            <p>
+               <hi>To the ſecond Article, that ſome be appointed to repreſent the breaches of the Covenant and Peace. And to report their repreſentation both of the time and manner.</hi>
+            </p>
+            <p>
+               <hi>Thirdly, any ingagement to</hi> England, <hi>if it be for ſtrengthening the Vnion of the Presbyterian Party, and the well-affected in</hi> England.</p>
+            <p>
+               <hi>The fourth agreed to, in matter and ſubſtance.</hi>
+            </p>
+            <p>
+               <hi>Fiftly, Vpon the agreement and the whole mat<g ref="char:EOLhyphen"/>ter, and ſtate of the queſtion, their Lordſhips will be pleaſed to declare His Majeſties conſeſsions to be unſatisfactory, they agree.</hi>
+            </p>
+            <p>
+               <hi>Sixtly, Declare that the preſent queſtion to bee
+<pb n="6" facs="tcp:161570:5"/> ſtated ſhal be an aſſurance to be had from His Ma<g ref="char:EOLhyphen"/>jeſty and His Succeſſors, that Acts of Parlia<g ref="char:EOLhyphen"/>ment ſhall be agreed unto, injoyning the League and Covenant, and as to the ſecond part of the Article, That His Majeſty ſhall doe this before His reſtoration: Its remitted to thoſe who ſhalbe appointed for drawing up the ſtate of the Queſt<g ref="char:EOLhyphen"/>ion.</hi>
+            </p>
+            <p>
+               <hi>The ſeaventh agreed to</hi> verbatim.</p>
+            <p>
+               <hi>To the eight, to conſider the framing of Oathes, otherwiſe, that they ſhall have their due intereſt paſt, that ſome be appointed for drawing up of the queſtion, and grounds of ingagements for u<g ref="char:EOLhyphen"/>niting the Kingdomse, and further an uuanimous nnderſtanding.</hi>
+            </p>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
